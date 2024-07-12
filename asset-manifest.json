@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ec505d1.css",
+    "main.js": "/static/js/main.e1b32686.js",
+    "static/media/EnhanceCustomerConnection.jpg": "/static/media/EnhanceCustomerConnection.5c21fa859d905b68fff3.jpg",
+    "static/media/CustomerExperienceOptimization.jpg": "/static/media/CustomerExperienceOptimization.43caf5656e452d69d3cc.jpg",
+    "static/media/DedicatedMarketingCampaigns.jpg": "/static/media/DedicatedMarketingCampaigns.94aff2fdc02798646c58.jpg",
+    "static/media/StarConnectShoutouts.jpg": "/static/media/StarConnectShoutouts.8b2172c5baf80b993687.jpg",
+    "static/media/DigitalPresenceEnhancement.jpg": "/static/media/DigitalPresenceEnhancement.77bd9dbc0850cbf94d60.jpg",
+    "static/media/ImproveMarketPositioning.jpg": "/static/media/ImproveMarketPositioning.55d92a11783b11c224c4.jpg",
+    "static/media/PersonalizedInfluencer.jpg": "/static/media/PersonalizedInfluencer.ed5a67d841611f0a9a41.jpg",
+    "static/media/BoostVisibilityAndRecognition.jpg": "/static/media/BoostVisibilityAndRecognition.0c0227f8feccfdb5e21c.jpg",
+    "static/media/SupportLongTermGrowth.jpg": "/static/media/SupportLongTermGrowth.9c49c290439d12cabf11.jpg",
+    "static/media/BrandedProductandPackagingDesigns.jpg": "/static/media/BrandedProductandPackagingDesigns.24514b752ff23539fbfd.jpg",
+    "static/media/BrandIdentityDevelopment.jpg": "/static/media/BrandIdentityDevelopment.9f13edc0f4d37b2c9d0b.jpg",
+    "static/media/StrongBrandIdentity.jpg": "/static/media/StrongBrandIdentity.9f13edc0f4d37b2c9d0b.jpg",
+    "static/media/ReputationManagement.jpg": "/static/media/ReputationManagement.1f2cff18ca9eb9976c47.jpg",
+    "index.html": "/index.html",
+    "main.0ec505d1.css.map": "/static/css/main.0ec505d1.css.map",
+    "main.e1b32686.js.map": "/static/js/main.e1b32686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec505d1.css",
+    "static/js/main.e1b32686.js"
+  ]
+}
